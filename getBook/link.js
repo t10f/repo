@@ -17,3 +17,12 @@ $("#goto4").click(function() {
 $("#goto5").click(function() {
   location.href = 'https://www.lazada.com.ph/products/medical-student-survival-skills-ecg-ebook-i444934598-s1123094169.html';
 });
+
+
+$("#goto6").click(function() {
+  location.href = 'https://www.lazada.com.ph/products/dr-pestanas-surgery-notes-top-180-vignettes-for-the-surgical-wards-kaplan-test-prep-ebook-i537598187-s1446454225.html';
+});
+
+$("#goto7").click(function() {
+  location.href = 'https://www.lazada.com.ph/products/the-survival-medicine-handbook-the-essential-guide-for-when-medical-help-is-not-on-the-way-ebook-i539040017-s1450374092.html';
+});
